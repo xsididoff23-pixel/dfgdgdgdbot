@@ -1,0 +1,194 @@
+{
+  "captcha_passed": {
+    "5366500428": {
+      "passed": true,
+      "answer": null
+    },
+    "6207577017": {
+      "passed": true,
+      "answer": null
+    },
+    "7892214606": {
+      "passed": true,
+      "answer": null
+    },
+    "6747857210": {
+      "passed": true,
+      "answer": null
+    },
+    "7930224695": {
+      "passed": true,
+      "answer": null
+    },
+    "6464707654": {
+      "passed": true,
+      "answer": null
+    }
+  },
+  "captcha_data": {
+    "8476858680": {
+      "correct": "🐒",
+      "created_at": 595569.962103,
+      "attempts": 0
+    }
+  },
+  "referral_codes": {
+    "5366500428": {
+      "referrals": 4,
+      "earned": 11.1
+    },
+    "7892214606": {
+      "referrals": 0,
+      "earned": 2.0
+    }
+  },
+  "pending_referrals": {
+    "5366500428": [
+      {
+        "user_id": "6747857210",
+        "username": "Dhnfrvfr",
+        "full_name": "In"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      },
+      {
+        "user_id": "8476858680",
+        "username": null,
+        "full_name": "Sandra Mila"
+      }
+    ]
+  },
+  "users_db": {
+    "6207577017": {
+      "username": null,
+      "full_name": "Паша",
+      "joined_at": "2026-04-13 10:28:01",
+      "last_active": "2026-04-13 10:31:23"
+    },
+    "5366500428": {
+      "username": "EneigiProgi",
+      "full_name": "Paul Durden🧼🥊MRKT",
+      "joined_at": "2026-04-13 10:28:31",
+      "last_active": "2026-04-13 18:05:24"
+    },
+    "7892214606": {
+      "username": "gggggegeg",
+      "full_name": "Sqwazir",
+      "joined_at": "2026-04-13 11:33:01",
+      "last_active": "2026-04-13 17:59:44"
+    },
+    "6747857210": {
+      "username": "Dhnfrvfr",
+      "full_name": "In",
+      "joined_at": "2026-04-13 13:00:16",
+      "last_active": "2026-04-13 13:00:16"
+    },
+    "8476858680": {
+      "username": null,
+      "full_name": "Sandra Mila",
+      "joined_at": "2026-04-13 13:01:14",
+      "last_active": "2026-04-13 13:07:04"
+    },
+    "7930224695": {
+      "username": null,
+      "full_name": "Ban",
+      "joined_at": "2026-04-13 13:07:25",
+      "last_active": "2026-04-13 13:08:06"
+    },
+    "6464707654": {
+      "username": "Mawtret",
+      "full_name": "Mawtret",
+      "joined_at": "2026-04-13 13:09:01",
+      "last_active": "2026-04-13 13:48:15"
+    }
+  },
+  "user_bonus": {
+    "7892214606": {
+      "last_bonus": 1776069196.309449,
+      "last_amount": 2.0
+    },
+    "5366500428": {
+      "last_bonus": 1776074967.084081,
+      "last_amount": 1.25
+    }
+  },
+  "withdraw_requests": {},
+  "request_counter": 0,
+  "request_sent": {
+    "5366500428": {
+      "sent": true,
+      "time": 1776074972.979191,
+      "chat_id": -1003364475349
+    },
+    "6207577017": {
+      "sent": true,
+      "time": 1776065489.208891,
+      "chat_id": -1003876875157
+    },
+    "7892214606": {
+      "sent": true,
+      "time": 1776069192.169022,
+      "chat_id": -1003876875157
+    },
+    "6747857210": {
+      "sent": true,
+      "time": 1776074431.580755,
+      "chat_id": -1003876875157
+    },
+    "7930224695": {
+      "sent": true,
+      "time": 1776074900.810044,
+      "chat_id": -1003876875157
+    },
+    "6464707654": {
+      "sent": true,
+      "time": 1776074955.75163,
+      "chat_id": -1003876875157
+    }
+  },
+  "user_tasks_completed": {
+    "5366500428": {
+      "1": true,
+      "2": true
+    }
+  },
+  "task_requests": {},
+  "active_task": {
+    "7892214606": "1",
+    "6747857210": "2"
+  },
+  "skipped_tasks": {
+    "5366500428": {},
+    "6747857210": {
+      "1": 1776074444.09506
+    }
+  }
+}
